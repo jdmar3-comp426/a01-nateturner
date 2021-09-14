@@ -6,10 +6,33 @@ title {
     font-size: medium;
 }
 
-td, th {
+table {
+    margin-right: auto;
+    margin-left:auto;
+}
+
+td, th{
     border: 1px solid #000;
+    height: 50px;
+    width: 100px;
+}
+
+tr :hover {
+    border: 3px solid fuchsia;
 }
 
 b {
     font-style: italic;
+}
+
+.c {
+    opacity: 50%;
+}
+
+#d {
+    float: right;
+}
+
+.e {
+    float: left;
 }
