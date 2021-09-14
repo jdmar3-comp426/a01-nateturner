@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+
+title {
+    font-size: medium;
+}
+
+td, th {
+    border: 1px solid #000;
+}
+
+b {
+    text-transform: bold;
+}
